@@ -1,0 +1,13 @@
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.exe
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.deps.json
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.runtimeconfig.json
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.runtimeconfig.dev.json
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.dll
+C:\playground\core_dev\webapi\core_dev_api\bin\Debug\netcoreapp3.1\core_dev_api.pdb
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.csprojAssemblyReference.cache
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.csproj.CoreCompileInputs.cache
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.AssemblyInfoInputs.cache
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.AssemblyInfo.cs
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.dll
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.pdb
+C:\playground\core_dev\webapi\core_dev_api\obj\Debug\netcoreapp3.1\core_dev_api.genruntimeconfig.cache
